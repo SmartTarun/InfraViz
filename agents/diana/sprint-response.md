@@ -2,19 +2,18 @@
 
 **Role:** Designer  
 **Branch:** `diana/design-001`  
-**Timestamp:** 2026-03-10T04:10:37.649Z
+**Timestamp:** 2026-03-10T06:08:39.377Z
 
 ## Sprint Response
 
 **Diana** 👋
 
-Hey Sam — fair callout, totally on me. Here's where I'm redirecting focus:
+Hey Sam, fair call — I dropped the ball on sequencing there. Here's where I'm redirecting:
 
-• **Login screen is now #1** — wireframes by EOD today, full fidelity by tomorrow noon
-• **Canvas background** — scrapping dark, moving to **white base + subtle gray grid** (standard infra diagramming convention, should've caught this earlier)
-• **Empty state** — designing alongside canvas so new users have clear onboarding context when they first land
-• Will drop everything in the **#infraviz-design** Figma file and ping for review before moving forward
+• **Login screen is now priority #1** — wireframes by EOD tomorrow, full mockup by Thursday
+• **Canvas background** — pulling the dark theme, switching to **white base + subtle gray grid** (cleaner, more industry-standard)
+• **Empty state** — designing this in parallel once login is locked, so new users have clear direction on first launch
+• Sketches going into Figma tonight so you can drop async comments
+• Will tag you in the frame when it's ready for review
 
-No more assumptions on visual direction — I'll flag decisions like background color before implementing. Thanks for keeping me honest. 🙏
-
-— Diana
+Sorry for the misalignment on the canvas call — should've flagged that decision before running with it. Back on track. 🎯
